@@ -1,3 +1,12 @@
+<script setup lang="ts">
+import HeaderComp from "@/components/HeaderComp.vue"
+
+</script>
+
 <template>
-  <h1 class="text-red-500 text-Zxl font-bold">Hello World ! </h1>
+  <HeaderComp />
+  
+  <main>
+
+  </main>
 </template>
